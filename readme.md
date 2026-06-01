@@ -10,7 +10,7 @@ Una herramienta ligera, estética y ultraeficiente para descargar videos de YouT
 ## 📸 Vista Previa
 
 <p align="center">
-  <img src="https://i.imgur.com/vHqBvIu.png" alt="YT Descargas Interface" width="550">
+  <img src="https://imgur.com/a/58SZq10" alt="YT Descargas Interface" width="550">
 </p>
 
 ---
